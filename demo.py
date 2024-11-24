@@ -41,7 +41,7 @@ if __name__ == '__main__':
                 print('Enter only a LETTER')
                 continue
             elif len(guess) > 1:
-                print('myran')
+                print('myran22222222')
                 continue
             elif guess in letterGuessed:
                 print('You have already guessed that letter')
